@@ -1,7 +1,7 @@
 {
-  "name": "ScullNode",
-  "website": "https://github.com/LollipopFND",
-  "description": "ScullNode operator",
-  "logo": "https://raw.githubusercontent.com/LollipopFND/Metadata/main/Scull.png",
-  "twitter": "https://x.com/ScullNode"
+  "name": "FlintOmnibus",
+  "website": "https://github.com/FlintOmnibus-Operator",
+  "description": "FlintOmnibus operator",
+  "logo": "https://raw.githubusercontent.com/LollipopFND/Metadata/refs/heads/main/Flint.png",
+  "twitter": "https://x.com/FlintOmnibus"
 }
